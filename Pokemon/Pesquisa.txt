@@ -1,0 +1,19 @@
+Pesquisa 
+
+Prompt 1 > 
+Eu quero que vc leia o meu terminal, e quero que vc me diga em qual comando eu errei e qual foi o meu erro para fazer com que o sistema inicialize com npm run dev
+
+
+Prompt 2 > 
+Eu mexi no script.js, eu to achando que eu estou com algum erro de sintaxe, consegue verificar pra mim?
+
+
+Prompt 3 > 
+Quero que vc analise o meu script db e o meu script js, quero que vc me diga o que está faltando e possiveis coisas que eu devo mudar para que assim que o usuario clicar no pokemon ele seja salvo no banco
+
+
+Prompt 4 > 
+Cara eu tenho uma dúvida, eu criei o atributo ripo no banco de dados, como eu posso fazer pra salvar o tipo no banco? eu estou salvando como VARCHAR no banco, mais eu tenho apenas um atributo tipo, e os pokemons com 2 tipo ?
+
+Pesquisas na internet > 
+Utilizei o repositório da prova de BD antiga, esse daqui e o link do repositório > https://github.com/Kaiky-Gabriell/Pr-Prova---DS/blob/main/script.js
